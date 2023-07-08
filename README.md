@@ -5,7 +5,7 @@ Simple Shell Script that generates a Settings Configuration for a Civilization 6
 ## Generated Settings
 
 - Game Mode
-- Map Type (WIP)
+- Map Type
 - Map Size (WIP)
 - CIV (WIP)
 
